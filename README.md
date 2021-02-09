@@ -18,5 +18,8 @@ handyman-backend$ python3 manage.py makemigrations
 handyman-backend$ python3 manage.py migrate
 handyman-backend$ python3 manage.py runserver
 ```
-# Handyman API Swagger Documentation: 
-[Go to Handyman api](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
+## Handyman API: 
+[Go to Handyman api](http://handymancompany.pythonanywhere.com "Live demo")
+
+## Handyman API Swagger Documentation: 
+[Go to Handyman swagger documentation ](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
