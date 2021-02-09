@@ -1,4 +1,4 @@
-# handyman-ApI
+# handyman-API
 handman api for home services and maintenance
 ### how to install on linux ubuntu
 
